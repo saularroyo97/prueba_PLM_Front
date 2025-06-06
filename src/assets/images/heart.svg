@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #68e085;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="52" y="62.89" width="196" height="174.22"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_mockup">
+    <g>
+      <rect class="cls-1" width="300" height="300"/>
+      <g id="Grupo_1448" data-name="Grupo 1448">
+        <g class="cls-2">
+          <g id="Grupo_1447" data-name="Grupo 1447">
+            <path id="Trazado_4445" data-name="Trazado 4445" class="cls-3" d="m140.36,77.62c-19.29-20.24-51.33-21-71.57-1.71-.58.56-1.15,1.13-1.71,1.71-20.07,21.05-20.11,54.13-.11,75.24l71.2,83.28h23.63l71.21-83.29c20-21.1,19.96-54.18-.11-75.23-19.29-20.24-51.33-21-71.57-1.71-.58.56-1.15,1.13-1.71,1.71l-9.63,10-9.64-10Zm-65.44,7.62c15.11-15.91,40.25-16.55,56.16-1.44.49.47.98.95,1.44,1.44l13.56,13.99,3.92,4.06,3.92-4.06,13.5-14.06c15.11-15.91,40.25-16.56,56.16-1.46.5.47.98.96,1.46,1.46,16.04,16.88,16.04,43.36,0,60.24l-.11.11-.11.13-74.82,87.55-74.86-87.55-.11-.12-.11-.12c-16.04-16.87-16.04-43.35,0-60.23"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

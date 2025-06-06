@@ -1,0 +1,56 @@
+.cardiology-app {
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.pubmed-section {
+  background: white;
+  margin: 1rem 0;
+  margin-bottom: 2rem;
+  border-radius: 15px;
+  padding: 1.5rem;
+}
+
+.pubmed-title {
+  color: #2c5530;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.custom-search {
+ width: 100%;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.result-card {
+  text-align: center;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+
+}
+.result-text {
+  color: #333;
+  font-weight: 500;
+}
+ .result-card {
+    padding: 1rem;
+     margin-bottom: 0.8rem;
+          }
+
+ .navbar-brand {
+   font-size: 1.1rem;
+          }
+
+
+.result-text {
+  color: #333;
+  line-height: 1.5;
+  margin: 0;
+}

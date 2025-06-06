@@ -1,0 +1,48 @@
+.card-item {
+  width: 100%;
+  max-width: 420px;
+  height: 158px;
+  border-radius: 12px;
+  color: white;
+}
+
+.custom-card {
+  width: 100%;
+  max-width: 600px;
+  height: 160px;
+  background-color: #001F1A;
+  border-radius: 12px;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+      justify-content: center; /* o center, según lo que busques */
+}
+
+.card-icon {
+  width: 70%;
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+
+
+/* MEDIA QUERIES PARA RESPONSIVE */
+@media (max-width: 768px) {
+  .custom-card {
+    height: auto;
+    padding: 0.75rem;
+  }
+
+  .card-icon {
+    width: 70%; 
+  }
+}
+
+@media (max-width: 576px) {
+  .card-icon {
+    width: 70%;
+  }
+}

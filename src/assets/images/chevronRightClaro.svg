@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #00e47c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="iPhone_mockup">
+    <g>
+      <path id="Trazado_4757" data-name="Trazado 4757" class="cls-2" d="m92.75,61.31l117.61,88.74-117.61,88.74,7.96,9.2,114.54-86.98v-22.03L100.71,52l-7.96,9.31Z"/>
+      <rect class="cls-1" width="300" height="300"/>
+    </g>
+  </g>
+</svg>

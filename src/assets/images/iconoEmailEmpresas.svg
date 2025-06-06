@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #00e47c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="iPhone_mockup">
+    <g>
+      <g id="mail">
+        <path id="Vector_3" data-name="Vector 3" class="cls-2" d="m56,73.78h196v152.44H56V73.78Zm10.88,133.3v-115.53l68.76,62.71c5.02,4.57,11.55,7.11,18.34,7.11s13.33-2.53,18.35-7.11l68.71-62.64-.61,114.75-42.87-45.47-14.91.17,51.28,54.27H74.06l51.25-54.27-14.87-.17-43.57,46.19Zm8.6-122.41h157.01l-67.5,61.54c-3.01,2.74-6.94,4.26-11.01,4.26s-7.99-1.52-11-4.26l-67.5-61.54Z"/>
+      </g>
+      <rect class="cls-1" width="300" height="300"/>
+    </g>
+  </g>
+</svg>
